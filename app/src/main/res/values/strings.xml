@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWorkThreeMonth</string>
+    <string name="name_str">Name</string>
+    <string name="age_str">Age</string>
+    <string name="firstname_str">FirstName</string>
+    <string name="fathername_str">FatherName</string>
+    <string name="next_button">NEXT</string>
+    <string name="welcome_text">Hello, Guest! Register please!</string>
+</resources>
